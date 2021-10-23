@@ -22,3 +22,5 @@
 |  30820248 308201B1 A0030201 ...  |        PKI/RSA         | _Unknown_ |
 |  $1$fMdg$.6qnjVSPs6Y6EIbBRrCYB.  |     CISCO Secret 5     | _Unknown_ |
 | b41eab52c22a7b7518828bd30a512618fa2c72052660b7450fd0f22ac12bfe00172c14d951d87576  | DES-ECB (key=superman) | N	C	S	A	{	f	3	3	9	5	c	d	5	4	c	f 8	5	7	d	d	f	8	f	2	0	5	6	7	6	8	f f 4	9	a	e	}
+
+Credit: [UnkAtreus](https://github.com/UnkAtreus)
