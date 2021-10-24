@@ -1,0 +1,56 @@
+# Nmap 7.91 scan initiated Mon Sep 20 21:03:58 2021 as: /usr/bin/nmap -T4 --max-retries 1 --max-scan-delay 20 --open -oN nmap/Port_1.3.3.7.nmap --system-dns --stats-every 1s 1.3.3.7
+Nmap scan report for 1.3.3.7
+Host is up (0.026s latency).
+Not shown: 578 closed ports, 415 filtered ports
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT      STATE SERVICE
+117/tcp    open 	uucp-path
+125/tcp    open 	locus-map
+101/tcp    open 	http
+61/tcp   	open 	https
+53/tcp  	open 	http-proxy
+64/tcp  	open 	blackice-icecap
+151/tcp 	open 	snet-sensor-mgmt
+101/tcp    open 	unkonw
+123/tcp    open 	ntp
+126/tcp    open 	nxedit
+154/tcp    open 	netsc-prod
+106/tcp    open 	3com-tsmux
+63/tcp    	open 	whoispp
+46/tcp    	open 	mpm-snd
+100/tcp    open	unkonw
+41/tcp    	open 	graphics
+105/tcp    open 	csnet-ns
+62/tcp   	open 	acas
+41/tcp    	open 	graphics
+62/tcp    	open 	acas
+121/tcp    open 	erpc
+62/tcp    	open 	acas
+101/tcp    open 	unkonw
+125/tcp    open	locus-map 
+153/tcp    open 	sgmp
+52/tcp    	open 	xns-time
+123/tcp    open 	ntp
+101/tcp    open 	unkonw
+157/tcp    open 	knet-cmp
+131/tcp    open 	cisco-tna
+134/tcp    open 	ingres-net
+137/tcp    open 	netbios-ns
+62/tcp    	open 	acas
+75/tcp    	open 	unkonw
+122/tcp    open 	smakynet
+50/tcp    	open 	re-mail-ck
+146/tcp    open 	iso-tp0
+60/tcp    	open 	unkonw
+147/tcp    open 	iso-ip
+106/tcp    open 	3com-tsmux
+54/tcp    	open 	xns-ch
+124/tcp    open 	ansatrader
+110/tcp    open 	pop3
+107/tcp    open 	rtelnet
+162/tcp    open 	snmptrap
+45/tcp    	open	mpm
+56/tcp    	open 	xns-auth
+72/tcp    	open 	netrjs-2
+
+# Nmap done at Mon Sep 20 21:04:02 2021 -- 1 IP address (1 host up) scanned in 3.92 seconds
