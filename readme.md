@@ -23,9 +23,10 @@ _nothing here_
 
 ## Network
 
+- [Switch](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Network/Switch)
+- [NMAP](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Network/NMAP)
 - [Network_Attack-Normal](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Network/Network_Attack-Normal)
 - [Network_Sniff-Normal](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Network/Network_Sniff-Normal)
-- [Switch](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Network/Switch)
 - [NCSA_Router](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Network/NCSA_Router)
 
 ## Programming
