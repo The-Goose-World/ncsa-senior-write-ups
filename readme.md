@@ -9,6 +9,7 @@ _nothing here_
 - [NCSALOGO1](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/NCSALOGO1)
 - [NCSALOGO2](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/NCSALOGO2)
 - [NCSALOGO2](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/NCSALOGO3)
+- [Challenge-05](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/challenge-05)
 - [Challenge-06](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/challenge-06)
 - [Hackerman](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/hackerman)
 - [Hackerplayer](https://github.com/The-Goose-World/ncsa-senior-write-ups/tree/main/Forensic/hackerplayer)
